@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/X4JhQe0" alt="Docker"/>
+<img src="https://imgur.com/X4JhQe0.png" alt="Docker"/>
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
