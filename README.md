@@ -3,7 +3,7 @@
 </p>
 
 <h1>Deploying a three tier architecture in AWS using Terraform</h1>
-This tutorial outlines the implementation of AWS architure on Terraform.<br />
+This tutorial outlines the implementation of AWS architecture on Terraform.<br />
 
 
 
