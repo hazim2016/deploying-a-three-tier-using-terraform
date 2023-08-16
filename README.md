@@ -2,8 +2,8 @@
 <img src="https://imgur.com/X4JhQe0.png" alt="Docker"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Deploying a three tier architecture in AWS using Terraform</h1>
+This tutorial outlines the implementation of AWS architure on Terraform.<br />
 
 
 <h2>Video Demonstration</h2>
