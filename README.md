@@ -12,7 +12,7 @@ This tutorial outlines the implementation of AWS architecture on Terraform.<br /
 - AWS account
 - Basic knowledge of AWS and Terraform
 - AWS access and secret key
-- Bash
+- Visual studio code
 
 <h2>Operating Systems Used </h2>
 
