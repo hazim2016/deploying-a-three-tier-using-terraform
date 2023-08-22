@@ -16,8 +16,8 @@ This tutorial outlines the implementation of AWS architecture on Terraform.<br /
 
 <h2>What is Terraform?</h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Terraform is a cloud agnostic infrastructure as code tool that allows you to provison and manage cloud infrastructure.
+
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
