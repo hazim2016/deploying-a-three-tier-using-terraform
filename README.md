@@ -28,17 +28,19 @@ This tutorial outlines the implementation of AWS architecture on Terraform.<br /
 
 <h2>Deployment and Configuration Steps</h2>
 
+# Creating VPC
+resource "aws_vpc" "demovpc" {
+  cidr_block       = "${var.vpc_cidr}"
+  instance_tenancy = "default"
+tags = {
+  Name = "Demo VPC"
+}
+}
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-#!/bin/bash
 
-yum update -y
-yum install -y httpd.x86_64
-systemctl start httpd.service
-systemctl enable httpd.service
-echo "Hello World from $(hostname -f)" > /var/www/html/index.html
 </p>
 <br />
 
