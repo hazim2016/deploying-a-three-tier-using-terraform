@@ -37,6 +37,7 @@ systemctl start httpd.service
 systemctl enable httpd.service
 echo "Hello World from $(hostname -f)" > /var/www/html/index.html
 ```
+
 ```
 # Configure the AWS Provider
 provider "aws" {
@@ -46,7 +47,15 @@ provider "aws" {
 }
 ```
 
-
+```
+# Create a VPC
+resource "aws_vpc" "my-vpc" {
+  cidr_block = "10.0.0.0/16"
+  tags = {
+    Name = "Demo VPC"
+  }
+}
+```
 </p>
 <br />
 
