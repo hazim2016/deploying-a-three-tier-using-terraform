@@ -37,10 +37,15 @@ systemctl start httpd.service
 systemctl enable httpd.service
 echo "Hello World from $(hostname -f)" > /var/www/html/index.html
 ```
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+```
+# Configure the AWS Provider
+provider "aws" {
+  region = "us-east-1"
+  access_key = "A***************P"
+  secret_key = "5******************************w"
+}
+```
+
 
 </p>
 <br />
