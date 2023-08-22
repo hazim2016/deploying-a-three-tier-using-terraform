@@ -14,7 +14,7 @@ This tutorial outlines the implementation of AWS architecture on Terraform.<br /
 - AWS access and secret key
 - Visual studio code
 
-<h2>Operating Systems Used </h2>
+<h2>What is Terraform?</h2>
 
 - Windows Server 2022
 - Windows 10 (21H2)
