@@ -19,12 +19,9 @@ This tutorial outlines the implementation of AWS architecture on Terraform.<br /
 - Terraform is a cloud agnostic infrastructure as code tool that allows you to provison and manage cloud infrastructure.
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Mission objective and Overview</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- The mission object and overview is to create a three teir application with a web layer, application layer and database using terraform.
 
 <h2>Deployment and Configuration Steps</h2>
 
