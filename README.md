@@ -19,7 +19,7 @@ This tutorial outlines the implementation of AWS architecture on Terraform.<br /
 - Terraform is a cloud agnostic infrastructure as code tool that allows you to provison and manage cloud infrastructure.
 
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+<h2>Environments and Technologies Used</h2>
 
 - Step 1
 - Step 2
