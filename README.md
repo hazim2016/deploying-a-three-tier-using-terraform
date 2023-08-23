@@ -351,6 +351,6 @@ output "lb_dns_name" {
   value       = aws_lb.external-elb.dns_name
 }
 ```
-Run terraform init to intialize
-Run terraform plan to create an execution plan
-Run terraform apply to execute
+- Run terraform init to intialize
+- Run terraform plan to create an execution plan
+- Run terraform apply to execute
